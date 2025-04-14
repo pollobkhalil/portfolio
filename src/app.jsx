@@ -1,8 +1,12 @@
-import React from 'react'
-
 const App = () => {
   return (
-    <div>App</div>
+    <main>
+
+        <div>
+        <h1>Welcome to my Portfolio</h1>
+        </div>
+      
+    </main>
   )
 }
 
