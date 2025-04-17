@@ -1,3 +1,4 @@
+import Button from "../components/Button.jsx"
 import { words } from "../constants/index.js"
 
 
@@ -41,11 +42,19 @@ const Hero = () => {
           </span>
         </h1>
           
-
+         
+        
         <h1>into real projects</h1>
         <h1>that deliver results</h1>
 
           </div>
+           <p className="text-white-50 md:text-xl realtive z-50 pointer-events-none">Hi, I'm Pollob Khalil, a developer based in Bangladesh with a passion for code.</p>
+
+            <Button 
+            className="md:w-10 md:h-16 w-60 h-12"
+            id="button"
+            text="See My Work" />
+
         </div>
 
       </header>
