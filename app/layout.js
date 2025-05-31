@@ -8,8 +8,6 @@ const ovo = Ovo({
   subsets: ["latin"], weight:["400"]
 });
 
-
-
 export const metadata = {
   title: "Pollob Khalil",
   description: "",
